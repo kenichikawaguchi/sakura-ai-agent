@@ -1,0 +1,6 @@
+.venv/
+.env
+reports/
+request_log.json
+search_history.db
+
